@@ -1,2 +1,2 @@
 # SQLite-windowsForm-c-
-Aplicacion para windows con base de datos SQLite programado en visual Studio en C#
+Aplicacion para windows, con base de datos SQLite y  programado en C# con visual Studio  2019
